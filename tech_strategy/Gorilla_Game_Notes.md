@@ -108,5 +108,13 @@ Markets that have the "royalty structure" of king/prince/serf, as opposed to the
 When two gorillas, each in the process of imperialistically expanding its territory, encounter each other and decide they must fight to the death, three things can happen, and two of them are bad:
 
 1. Your gorilla loses out to the other gorilla.
-1. The two gorillas fight to a standstill.
 1. Your gorilla wins, which leads to a dramatic uptick in the value of your portfolio, as the added value of ruling a new market supplements the already highly valued market cap of your gorilla's stock.
+1. The two gorillas fight to a standstill.
+
+## Valuing Gorillas
+
+![Market Cap](imgs/market_cap.gif)
+
+1. The gorilla's curve is starting out higher on the vertical axis than a normal company. That is because, given its extraordinary advantage in power, it is expected to have far higher revenues and far better earnings from the outset.	
+1. Because it is in a hypergrowth market, its growth rate is far higher than normal, causing its curve to rise more steeply than otherwise would be possible. This makes for a fatter area under the curve.	
+1. Because it is going to be the permanent leader of this new market that is currently in hypergrowth; that is, the leader not just during the tornado but for the full duration of Main Street as well. Investors have much higher confidence in its earnings projections. Indeed, they are willing to project these earnings as far into the future as they are willing to project the market itself. This makes for a much longer area under the curve.
