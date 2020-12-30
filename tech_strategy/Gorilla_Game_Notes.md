@@ -98,3 +98,15 @@ Markets that have the "royalty structure" of king/prince/serf, as opposed to the
 - In enabling technologies, products commoditize extremely well, allowing them to proliferate into markets far afield from the original starting points and generate a high degree of network effects.
 - Because all other vendors in the marketplace are ultimately both dependent upon and vulnerable to these gorillas, their behavior must be scrutinized on a daily basis, even if one were not invested in them.
 
+## Scalability vs Barriers to Entry
+
+- Both are required to sustain ongoing gorilla-like valuations. 
+- However, the more scalable a market is, the more likely it is to intersect with another gorilla's turf, and the more challenging it is to keep other companies out. 
+- Conversely, the higher the barriers to entry protecting a market, usually the more complex the solution is to replicate, and therefore the harder it is to scale the market. There is a trade-off, then, between scalability and barriers to entry.	
+- Whenever this trade-off condition occurs, the barriers-to-entry play is safer in the short term, and the scalability play is safer in the long term. 
+
+When two gorillas, each in the process of imperialistically expanding its territory, encounter each other and decide they must fight to the death, three things can happen, and two of them are bad:
+
+1. Your gorilla loses out to the other gorilla.
+1. The two gorillas fight to a standstill.
+1. Your gorilla wins, which leads to a dramatic uptick in the value of your portfolio, as the added value of ruling a new market supplements the already highly valued market cap of your gorilla's stock.
