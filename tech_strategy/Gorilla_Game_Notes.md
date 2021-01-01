@@ -136,3 +136,25 @@ The time interval between now and that date is the Competitive Advantage Period.
 The shaded area under the curve represents the net present value of the company's anticipated future ability to create profits in excess of the minimum risk-adjusted rate of return. This is called the Economic Value Added (EVA), and the size of this area represents the size of the "good deal" for owning the stock. 
 
 Changes in the size of this area, and this area alone, account for the overwhelming bulk of changes in a company's stock market valuation, and hence its stock price.	
+
+## In Search of Hypergrowth Markets	
+
+There are only two ways to outperform the market:
+
+- Outreact it on a frequent basis (execute on the same insights and information that others use but do so faster than everyone else) 
+- Outthink it (execute on different insights and information than others use). 
+	- Outthinking is actually a form of outreacting, but on a much slower time scale. That is, the "outthinker" sees upcoming events before they hit the market's radar, and acts on them ahead of the market.
+	- Outthinking the market is not as hard as it might sound, for the market does not think. 
+
+### Value Chain
+
+**Tornadoes occur when and only when a new value chain comes into existence.**
+
+![High Tech Value Chain](imgs/value_chain.gif)
+
+From left to right:
+
+- Technology of a new and unique capability is being incorporated into products, which propose new and highly differentiated benefits to customers.
+- For these benefits to be realized, the new products must be integrated into the world's existing systems, and the resultant whole product must be sellable through a sales channel. - That channel, in turn, must make a sale to the customer, who then must have the technical capabilities to internalize the new system. 
+- At this point, if the end users adopt the new system, and it makes them more productive, then, and only then, do the economic buyers see a return on their purchase investment. 
+
