@@ -234,3 +234,29 @@ From left to right:
 
 		This is key to setting the length of CAPs both for gorillas and kings.	
 	1. Finally, is there a new technology coming hard on the heels of this one that will foreshorten the length of its overall market life? This is the ultimate terminating force of a gorilla's CAP.
+
+## SHARES
+
+SHARES is meant to suggest the sequential process behind gorilla-game investing, which is to:	
+1. Scan
+	As you get good at scanning, you will begin to sort everything you scan into one of three categories, which we like to think of as tossing items into one of three buckets:
+
+	- Confirmations	
+	- Exceptions	
+	- Irrelevancies	
+
+1. Hypothesize
+
+	1. Where are tornado markets emerging?	
+	1. What product categories are going to be affected?	
+	1. Will any new categories of product be brought into prominence?	
+
+1. Analyze	
+
+	1. What product category, if any, might support a proprietary architecture with high switching costs?	
+	1. What are the companies within that category?	
+	1. Is there a hierarchy forming as yet?	
+
+1. Respond	
+1. Evaluate	
+1. Strengthen	
