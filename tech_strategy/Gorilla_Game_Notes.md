@@ -177,5 +177,23 @@ From left to right:
 	1. Adoption complexity, overcome by the killer app.			
 	1. Solution complexity, overcome by a streamlined whole product.			
 
+## Investing Rules
 
+**Rule 1. If the category is application software, buy in the bowling alley.**
 
+- The application has been "designed into" the business processes of at least one specific vertical market, such that for the companies inside that segment, not buying is a bigger risk than buying.	
+- This means that that company can maintain a privileged relationship with a defensible set of customers, and has first rights to serve up to that customer base any future technology.
+
+**Rule 2. If the category is enabling hardware or software, buy at the start of the tornado.**
+
+- A good signal to begin tornado buying is when trade magazines stop printing articles questioning the readiness of a new technology for prime time and start printing ones focused on who is the emerging market leader. 
+
+**Rule 3: Buy a basket comprising all the gorilla candidates. Usually at least two, sometimes three, and normally no more than four companies.**
+
+### Possible Investment Outcomes
+
+- Now, when good processes produce good results, life makes sense, and all is well. 
+- When bad processes produce bad results, all may not be well, but life still makes sense, and the intelligent person learns from the experience. 
+- The hardest outcomes to handle, it turns out, are when bad processes produce good results and vice versa. 
+	- Here most people make the mistake of preferring the good result with the bad process. This is painfully short-sighted and must lead to confusion and grief later.	
+	- Instead, the correct response is to prefer the good process even when it generates a bad result. This is because the goal of prudent risk-taking is not to never fail; the goal is instead to win a lot more times than you lose. 
