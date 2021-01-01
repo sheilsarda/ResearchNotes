@@ -190,6 +190,20 @@ From left to right:
 
 **Rule 3: Buy a basket comprising all the gorilla candidates. Usually at least two, sometimes three, and normally no more than four companies.**
 
+**Rule 4. Hold gorilla stocks for the long term. Sell only on proven substitution threat.**
+
+**Rule 5. Hold application software chimp stocks as long as they exhibit potential for further market expansion. Do not hold enabling-technology chimps.**
+
+**Rule 6. Hold kings and princes lightly, selling individual stocks on a marketplace stumble and the category upon deceleration of hypergrowth.**
+
+**Rule 7. Once it becomes clear to you that a company will never become a gorilla, sell its stock.**
+
+**Rule 8. Money taken out of non-gorilla stocks should immediately be reinvested in the remaining gorilla candidates.**
+
+**Rule 9. In a gorilla collision, hold your gorilla candidates until there has been a definitive outcome.**
+
+**Rule 10. Most news has nothing to do with the gorilla game. Learn to ignore it.**
+
 ### Possible Investment Outcomes
 
 - Now, when good processes produce good results, life makes sense, and all is well. 
@@ -197,3 +211,26 @@ From left to right:
 - The hardest outcomes to handle, it turns out, are when bad processes produce good results and vice versa. 
 	- Here most people make the mistake of preferring the good result with the bad process. This is painfully short-sighted and must lead to confusion and grief later.	
 	- Instead, the correct response is to prefer the good process even when it generates a bad result. This is because the goal of prudent risk-taking is not to never fail; the goal is instead to win a lot more times than you lose. 
+
+## News Filter
+
+
+1. If it is not about a tornado, you don't want to know.	
+	
+	This is particularly useful for excluding futurists at the front end of the technology adoption life cycle, and a whole raft of commentary on Main Street, including general assessments of the economy, discussions of interest rates, bull and bear markets, whether there is a good IPO climate or not, inflation, money supply, et cetera. You just don't care. None of them has the power to suppress or deflect a tornado, although they may change the speed of its progress.	
+
+1. If it is about a tornado, you want either bad news or facts.	
+	
+	The purpose of this rule is to ensure you don't get caught up in the hype that inevitably surrounds both emerging tornadoes, and their evil twins, false tornado sightings.	
+	
+	1. Is there a new value chain coming into existence? If so, you need to see evidence of this at every link of the chain.	
+	1. Is there a niche market that can serve as an indicator for the coming tornado? If so, you want to know everything about it.	
+	1. Is there a killer app? You want to know whether there is a killer app in sight or not, as it is always a key indicator.	
+	1. What are the third-party partners doing? 
+
+		Following their lead usually takes you right into gorilla dynamics, and often right to the gorilla.	
+	1. Is there proprietary architectural control in this market, and if so, who has it, and can they keep it? Here you want to probe very deeply, as this is a key underlying dynamic for the entire investment philosophy.	
+	1. How high are the switching costs in this market, and what barriers to entry do they create? 
+
+		This is key to setting the length of CAPs both for gorillas and kings.	
+	1. Finally, is there a new technology coming hard on the heels of this one that will foreshorten the length of its overall market life? This is the ultimate terminating force of a gorilla's CAP.
