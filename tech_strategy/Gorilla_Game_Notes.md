@@ -158,3 +158,24 @@ From left to right:
 - For these benefits to be realized, the new products must be integrated into the world's existing systems, and the resultant whole product must be sellable through a sales channel. - That channel, in turn, must make a sale to the customer, who then must have the technical capabilities to internalize the new system. 
 - At this point, if the end users adopt the new system, and it makes them more productive, then, and only then, do the economic buyers see a return on their purchase investment. 
 
+### A Framework 
+
+1. When evaluating tornado market opportunities, maintain focus on the state of the value chain, asking the following questions over and over again:			
+	1. Can this value chain develop into a tornado mass market?
+		
+		If the answer is no, leave the sector. There will be no gorillas coming around here anytime soon. If the answer is yes, continue.			
+	1. If so, what conditions are currently holding it back?			
+
+		This is where you earn your stripes as a gorilla gamer. Nobody ever really knows the answer to this question, so the goal is to assemble ideas about it, and then take your own view. That view will drive the next phase of your tornado watch, as represented by the final two questions.
+	1. Are these constraining conditions likely to be removed?			
+		
+		As an investor, you need to imagine what it might take to remove the obstacles you have identified as the key blocking forces holding back the tornado's formation. Once you have ideas, you can start evaluating the offers from particular companies to see if they might do the trick.			
+	1. If so, when is the last remaining constraint likely to be removed, and by whom?
+
+		This is a key caveat about betting on any breakthrough in a traffic jam. It doesn't do any good if the jam just re-forms a mile or two down the highway. In other words, until the value chain is operating effectively end to end, no value gets through. That's why it is important to postulate the last remaining constraint.	
+1. As you are looking at constraints and their removal, remember the critical factor is the need to overcome complexity. As we said, complexity comes in two main forms, each overcome by a characteristic enabler:			
+	1. Adoption complexity, overcome by the killer app.			
+	1. Solution complexity, overcome by a streamlined whole product.			
+
+
+
