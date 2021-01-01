@@ -118,3 +118,21 @@ When two gorillas, each in the process of imperialistically expanding its territ
 1. The gorilla's curve is starting out higher on the vertical axis than a normal company. That is because, given its extraordinary advantage in power, it is expected to have far higher revenues and far better earnings from the outset.	
 1. Because it is in a hypergrowth market, its growth rate is far higher than normal, causing its curve to rise more steeply than otherwise would be possible. This makes for a fatter area under the curve.	
 1. Because it is going to be the permanent leader of this new market that is currently in hypergrowth; that is, the leader not just during the tornado but for the full duration of Main Street as well. Investors have much higher confidence in its earnings projections. Indeed, they are willing to project these earnings as far into the future as they are willing to project the market itself. This makes for a much longer area under the curve.
+
+### CAP Chart
+
+![CAP Chart](imgs/cap_chart.gif)
+
+**Note:** Lines represents a consensus in the investment community that can only be inferred through indirect means.
+
+### CAP (Competitive Advantage Period)
+
+The point at which the curved line intersects the risk-adjusted return line equates to some future date beyond which no further projections of competitive advantage are valued. 
+
+The time interval between now and that date is the Competitive Advantage Period.
+
+### EVA (Economic Value Added)
+
+The shaded area under the curve represents the net present value of the company's anticipated future ability to create profits in excess of the minimum risk-adjusted rate of return. This is called the Economic Value Added (EVA), and the size of this area represents the size of the "good deal" for owning the stock. 
+
+Changes in the size of this area, and this area alone, account for the overwhelming bulk of changes in a company's stock market valuation, and hence its stock price.	
