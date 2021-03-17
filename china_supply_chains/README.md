@@ -32,7 +32,7 @@ faster clip than inflation so it is intentionally pricing itself out of the mark
 	- This is to bring the Chinese population out of poverty
 	- Leads to a discussion of onshoring or shifting to cheaper cost of labor economies
 - China's Problems with Contract Manufacturing
-	<img src="imgs/shoes.png" width=600px>
+	<img src="imgs/shoe.png" width=600px>
 	- First $88 stay with footlocker, the retailer
 	- Nike's wholesale price of $40 don't go to China
 	- Rubber, Suede and other raw materials are imported in
