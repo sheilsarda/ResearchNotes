@@ -109,7 +109,6 @@ Company's just try to fly under the radar to the extent that they can
 - Huawei is making contingency plans to become a China-only company, but their entire future
 	is being appended because of politics and not underlying economics
  
-
 #### Global China
 
 - Largest infrastructure investor in the world
@@ -121,3 +120,15 @@ Company's just try to fly under the radar to the extent that they can
 - Want more friends on the global stage
 
 
+#### Five-Eyes, Quad
+
+**Quad**: Japan, India, Australia, USA
+
+- Anti-China move
+- India has gone from being on the sidelines on national security issues to
+	siding with the USA
+- Will see a lot of alliance of democracy talk this and in the coming years against China
+
+**Five-Eyes**: UK, Australia, New Zealand, USA, Canada; Intelligence-sharing agreement
+which is important for Australia to be a member of because of their unique satellite
+coverage of the southern-hemisphere
