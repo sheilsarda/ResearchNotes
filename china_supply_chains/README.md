@@ -48,4 +48,13 @@ faster clip than inflation so it is intentionally pricing itself out of the mark
 		advantage over distributed systems
 	- We are in a new data-driven regime unlike any we have seen before, which might be 
 		what is giving the nation an advantage
+- The further west in China you go, the more complicated the infrastructure is going to be,
+	so eCommerce is a leveler because it gives everyone access to the same marketplaces
+	- Every year 300M people join the middle-class who have not seen any other 
+		way to shop than eCommerce
+	- India is also similarly exciting because you have different groups of people with language
+		barriers, tastes, etc.
+
+### Dean Garrett's Session
+
 
