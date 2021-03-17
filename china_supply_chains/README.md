@@ -62,7 +62,9 @@ faster clip than inflation so it is intentionally pricing itself out of the mark
 	China, the more they will become like us; there is now a consensus that China is no longer
 	willing to play the same game US is playing and that this is new
 
-#### GM
+#### US Companies
+
+##### GM
 
 - In 2019, GM sold more cars in China than in the USA. All these cars were made in a JV with a Chinese communist
 	company
@@ -71,16 +73,17 @@ faster clip than inflation so it is intentionally pricing itself out of the mark
 - What should GM do about this? Production needs to be closer to the market than the home country, so producing
 	in Detroit and exporting to China is not an option
 
-#### Starbucks
+##### Starbucks
 
 Most of the global growth of Starbucks in the last 5 years has been in China
 
-#### Tesla
+##### Tesla
 
 - Rise in stock price of Tesla started when they announced the opening of their new plant outside of Shanghai
 - Producing largely for the Chinese market, with the option for export
+- Not in a JV
 
-#### Apple
+##### Apple
 
 - Tim Cook is not shy about speaking to the importance of China in manufacturing
 	- He mentioned it's not because of cost, but talent and quality
@@ -90,8 +93,31 @@ Most of the global growth of Starbucks in the last 5 years has been in China
 	<img src="imgs/apple.png" width=800px>
 - China is the second largest market for Apple devices now as well; iPhones are still a status symbol
 
-#### Takeaways
+##### Takeaways
 
 Company's just try to fly under the radar to the extent that they can
+
+#### Chinese Companies - Huawei
+
+<img src="imgs/huawei.png" width=800px>
+
+- US is a taker of technology and standards related to 5G; related to step-down in government
+	investment in technology post-war
+- Qualcomm, Broadcom and Flex lobby Washington DC to not be as strict on Huawei because of the danger
+	it poses on their supply chains
+	<img src="imgs/huawei_friends.png" width=700px>
+- Huawei is making contingency plans to become a China-only company, but their entire future
+	is being appended because of politics and not underlying economics
+ 
+
+#### Global China
+
+- Largest infrastructure investor in the world
+	<img src="infra.png" width=800px>
+- Expand market access
+	- Africa; raw materials
+	- Europe; more markets
+- Have great infrastructure and want to export it
+- Want more friends on the global stage
 
 
