@@ -113,7 +113,7 @@ Company's just try to fly under the radar to the extent that they can
 #### Global China
 
 - Largest infrastructure investor in the world
-	<img src="infra.png" width=800px>
+	<img src="imgs/infra.png" width=800px>
 - Expand market access
 	- Africa; raw materials
 	- Europe; more markets
