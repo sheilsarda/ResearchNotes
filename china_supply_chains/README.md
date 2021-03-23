@@ -132,3 +132,44 @@ Company's just try to fly under the radar to the extent that they can
 **Five-Eyes**: UK, Australia, New Zealand, USA, Canada; Intelligence-sharing agreement
 which is important for Australia to be a member of because of their unique satellite
 coverage of the southern-hemisphere
+
+## Supply Chain Overview and JD Case Discussion 3.23.2021
+
+### Supply Chain Overview
+
+#### Overview 
+
+1. Network that connects everything from procurement all the way to the customer (PoS)
+1. **What flows in the supply chain:**	
+	1. Product: flows from producer to consumer; also have reverse logistics going the other way
+	1. Money: Timing of cashflows is a problem because a supplier is putting money into raw materials now but customer only pays after the entire product is manufactured and gets sold
+		1. Cash Conversion Cycle (CCC): Apple and Amazon have -30days CCC
+		1. Solution: Cash refactoring; e.g. Greensill Capital
+	1. Information: flows both ways; Amazon for e.g. is very reluctant to give customer data, although they do want to share aggregate information
+1. **Goal of supply chains:**
+	1. Match supply and demand
+	1. Maximize supply chain surplus; need to think supply chain as end-to-end entity and maximize the size of the pie
+		1. Individual firms should care about this because of double marginalization
+		1. Wholesaler chooses wholesale price and retail price sets market price; both entities maximize individual profit by adding a margin
+		1. Optimal solution is to mazimie the collective profit; buyback contracts and other agreements try to improve visibiltiy and coordinate actions
+		<br><img src="imgs/double_margin.png" width=500><br>
+
+#### Assess Alignment and Fit in Supply Chain
+
+1. To what extent is the customer imposing additional uncertainity to your supply chain
+	1. Quantity of product needed
+	1. Response time customers will tolerate
+	1. Variety of products needed
+	1. Service Level required
+	1. Price of product
+	1. Desired rate of innovation of the product
+	<br><img src="imgs/uncertainty.png" width=500><br>
+
+### JD Case Notes
+
+#### Overview
+
+1. Second largest e-commerce company in China by Gross Merchandise Volume (GMV)
+1. Offer same-or-next-day delivery as a standard service for Chinese customers
+
+
