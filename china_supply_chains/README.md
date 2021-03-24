@@ -149,7 +149,7 @@ coverage of the southern-hemisphere
 1. **Goal of supply chains:**
 	1. Match supply and demand
 	1. Maximize supply chain surplus; need to think supply chain as end-to-end entity and maximize the size of the pie
-		1. Individual firms should care about this because of double marginalization
+		1. Individual firms should care about this because of [double marginalization](https://www.careeranna.com/articles/double-marginalization/#:~:text=Double%20Marginalization%20is%20the%20phenomenon,their%20own%20markups%20in%20prices.)
 		1. Wholesaler chooses wholesale price and retail price sets market price; both entities maximize individual profit by adding a margin
 		1. Optimal solution is to mazimie the collective profit; buyback contracts and other agreements try to improve visibiltiy and coordinate actions
 		<br><img src="imgs/double_margin.png" width=500><br>
@@ -198,6 +198,42 @@ FreshHippo offers 30-min delivery to within a 3-km radius of the store; can be a
 
 ![](imgs/alibaba_11.11.png)
 
+### Tencent Speaker
+
+Neo Liu, Head of NA Publishing, Tencent
+
+#### History of Tencent
+
+![](imgs/tencent_history.png)
+
+#### Mini Program
+
+Mini-program vs website:
+![](imgs/tencent_app_vs_site.png)
+![](imgs/tencent_program_eg.png)
+
+Setting up your own WeChat ecosystem using mini-programs
+
+![](imgs/tencent_api.png)
+
+#### Mini Games
+
+![](imgs/tencent_games.png)
+
+#### Business Communication: WeChat Work
+
+![](imgs/tencent_slack.png)
+
+#### WeChat Pay
+
+- Added WeChat Red Envelope: like a social game
+- Different from AliPay, which is pure payments, because this has social aspect of money transfer
+
+![](imgs/tencent_pay.png)
+
+**PoS Methods using WeChat Pay**
+
+![](imgs/tencent_payments.png)
 
 ### JD Case Notes
 
@@ -253,7 +289,7 @@ Because JD sourced many products by itself, the team relied on demand forecastin
 ![](imgs/jd_forecasting.png)
 ![](imgs/jd_services.png)
 
-#### China eCommerce Competitive Landscape
+#### Future of Chinese Commerce 
 
 Alibaba New Retail:
 
