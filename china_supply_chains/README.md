@@ -206,6 +206,16 @@ Neo Liu, Head of NA Publishing, Tencent
 
 ![](imgs/tencent_history.png)
 
+**Agenda for expanding internationally**
+
+- Cloud: privacy issues are prelavant, and this is a major blocker
+- Payments: privacy issues, same as cloud
+- Gaming: no limitations for international expansion; seeing massive growth in this vertical
+
+**Specific regions as targets for international expansion**
+
+If a lot of Chinese tourists go somewhere, we try to make it available there. E.g. Japan, Bay Area, etc.
+
 #### Mini Program
 
 Mini-program vs website:
@@ -226,16 +236,26 @@ Setting up your own WeChat ecosystem using mini-programs
 
 #### WeChat Pay
 
-- Added WeChat Red Envelope: like a social game
+- Catching up with AliPay in the payments game when WeChat Pay started
+- Started with WeChat Red Envelope: like a social game
 - Different from AliPay, which is pure payments, because this has social aspect of money transfer
 
 ![](imgs/tencent_pay.png)
 
-**PoS Methods using WeChat Pay**
+**PoS Methods using WeChat Pay**: 
+
+- Cut is lower than what credit cards take
+- Not bypassing credit / debit cards; still go through the bank
+- Both AliPay and WeChat Pay are working on facial recognition for payment authentication
 
 ![](imgs/tencent_payments.png)
 
-### JD Case Notes
+**Comparison with Ant Financial**
+
+- Tencent does not want to get into financial lending because it is too risky and attracts government attraction
+- WeChat does offer lending, but in a much more conservative way
+
+### [JD Case Notes](cases/JD%20Envisioning%20the%20Future%20of%20Retail%20(A).pdf)
 
 #### Overview of JD and Chinese Retail Landscape
 
