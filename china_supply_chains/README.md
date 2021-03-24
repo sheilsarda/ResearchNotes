@@ -196,6 +196,9 @@ FreshHippo offers 30-min delivery to within a 3-km radius of the store; can be a
 - Most products are 3P-merchants owned; JD is more of a 1P model
 - Cainiao is like UPS / Fedex; a merchant / customer can select who they want their goods delivered by, and the network makes it happen
 
+![](imgs/alibaba_11.11.png)
+
+
 ### JD Case Notes
 
 #### Overview of JD and Chinese Retail Landscape
@@ -211,6 +214,7 @@ FreshHippo offers 30-min delivery to within a 3-km radius of the store; can be a
 	online or in stores and engage with consumers to provide a personalized shopping experience
 
 ![](imgs/jd_bamboo.png)
+![](imgs/china_retail_revolution.png)
 
 #### JD History
 
@@ -250,3 +254,14 @@ Because JD sourced many products by itself, the team relied on demand forecastin
 ![](imgs/jd_services.png)
 
 #### China eCommerce Competitive Landscape
+
+Alibaba New Retail:
+
+1. A key feature of Hema was its ability to deliver orders within 3 kilometers within 30 minutes
+1. As of 2015, Alibaba had opened 13 Hema markets—ten in Shanghai, two in Beijing, and one in Ningbo—and each store served customers within a three-kilometer radius so Hema could provide fast and high-quality service
+1. Furthermore, Hema also had its own logistics system, with an in-store warehouse that allowed order-fulfillment specialists to scan, pack up the goods and send them to the delivery center nearby quickly
+1. With such efficient distribution network, each Hema store was able to fulfill thousands of orders a day
+1. Hema’s customers made about 4.5 purchases per month and 50 times a year
+	1. Once a user opened the app, their likelihood of making a purchase was 35%
+	1. Online orders made up more than 50% of total orders
+1. “Hema is a showcase of the new business opportunities that emerges from online-offline integration,” Daniel Zhang, Alibaba Group CEO, remarked
