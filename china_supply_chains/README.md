@@ -200,7 +200,10 @@ FreshHippo offers 30-min delivery to within a 3-km radius of the store; can be a
 
 ### Tencent Speaker
 
-Neo Liu, Head of NA Publishing, Tencent
+- Neo Liu, Head of NA Publishing, Tencent
+- Shirley Xue, Shirley Xue, GM at Tencent, M&A execution and Portfolio Management
+	- Currently at Soul App Tencent investment
+	- Soul App is a Chinese social networking and dating platform
 
 #### History of Tencent
 
@@ -214,7 +217,8 @@ Neo Liu, Head of NA Publishing, Tencent
 
 **Specific regions as targets for international expansion**
 
-If a lot of Chinese tourists go somewhere, we try to make it available there. E.g. Japan, Bay Area, etc.
+- If a lot of Chinese tourists go somewhere, we try to make it available there. E.g. Japan, Bay Area, etc.
+- Biggest blocker for internation expansion is that some other messaging applications have already gained traction
 
 #### Mini Program
 
@@ -255,7 +259,33 @@ Setting up your own WeChat ecosystem using mini-programs
 - Tencent does not want to get into financial lending because it is too risky and attracts government attraction
 - WeChat does offer lending, but in a much more conservative way
 
-### [JD Case Notes](cases/JD%20Envisioning%20the%20Future%20of%20Retail%20(A).pdf)
+#### WeChat Games
+
+- Contribute to 50% of WeChat revenue
+- 33% of total Tencent revenue comes from games
+
+![](imgs/tencent_esports.png)
+
+#### WeChat Advertising
+
+- **Neo's anecodtal evidence:** on Facebook, you see a lot of personalized advertising but its not too accurate
+- Tencent has more brand ads, instead of geared towards conversion
+- Tencent allows you to have more experiences behind ads than other platforms with linked miniprograms, etc.
+
+![](imgs/tencent_official_acct.png)
+![](imgs/tencent_program_ads.png)
+
+#### Market Competition
+
+- Whenever a new social media app comes out, like ClubHouse, everyone thinks they are potential competitors
+- Have seen several market cycles of new social media, and we've survived through everything
+- Dominate in social networks, but need to keep improving our experience
+
+#### Tencent Appendix
+
+![](imgs/tencent_appendix.png)
+
+### [JD Case Notes](https://github.com/sheilsarda/ResearchNotes/blob/master/china_supply_chains/Cases/JD%20Envisioning%20the%20Future%20of%20Retail%20(A).pdf)
 
 #### Overview of JD and Chinese Retail Landscape
 
