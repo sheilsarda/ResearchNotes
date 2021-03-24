@@ -186,6 +186,15 @@ coverage of the southern-hemisphere
 
 ![](imgs/alibaba_ecosystem.png)
 ![](imgs/china_retail.png)
+![](imgs/fresh_hippo.png)
+
+FreshHippo offers 30-min delivery to within a 3-km radius of the store; can be as large as an entire mall basement
+
+![](imgs/alibaba_supply_chain.png)
+
+- Cainiao is a coordination platform for 3PL providers
+- Most products are 3P-merchants owned; JD is more of a 1P model
+- Cainiao is like UPS / Fedex; a merchant / customer can select who they want their goods delivered by, and the network makes it happen
 
 ### JD Case Notes
 
@@ -201,12 +210,11 @@ coverage of the southern-hemisphere
 	1. Third, retailers must move beyond traditional ways of selling
 	online or in stores and engage with consumers to provide a personalized shopping experience
 
+![](imgs/jd_bamboo.png)
+
 #### JD History
 
 Despite its late arrival, JD distinguished itself among competitors with a staunch commitment to customer service and a zero tolerance policy toward counterfeits. To Liu, the essence of retail was about operating cost, efficiency, and customer experience
-
-Liu developed an inverted triangle model to show how JD delivered top customer service with great efficiency
-![](imgs/jd_triangle.png)
 
 On some other e-commerce platforms, those sellers that sell counterfeits could charge the same prices as sellers selling authentic products, and as a result, they have money to advertise on these platforms, and sometimes drive their competitors out of the market or convert them into counterfeit sellers. The platforms can profit from these ads and may not have incentives to intervene
 
@@ -222,3 +230,23 @@ This partnership would expand JD’s offerings in imported products, and consume
 
 #### JD Supply Chain
 
+Liu developed an inverted triangle model to show how JD delivered top customer service with great efficiency
+![](imgs/jd_triangle.png)
+
+Its distribution centers had three tiers: 
+	- regional distribution centers
+	- forward distribution centers
+	- town distribution centers
+
+We call this process **short chain**
+
+- Short chain reduces the number of movements [of goods] and cuts down on transportation distance
+- Typically, in order to get merchandise from a warehouse to customer, the merchandise might be transported four to five times or more
+- JD wants to reduce the entire number of movements to one or two times
+
+Because JD sourced many products by itself, the team relied on demand forecasting to determine how many of certain products to source at certain times of the year
+
+![](imgs/jd_forecasting.png)
+![](imgs/jd_services.png)
+
+#### China eCommerce Competitive Landscape
