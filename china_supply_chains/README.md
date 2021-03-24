@@ -164,12 +164,61 @@ coverage of the southern-hemisphere
 	1. Price of product
 	1. Desired rate of innovation of the product
 	<br><img src="imgs/uncertainty.png" width=500><br>
+1. How responsive is the supply chain to:
+	1. Responding to wide range of quantities
+	1. Meeting short lead times
+	1. Handling large varieties of products
+	1. Meeting high service level
+1. Strategic Fit
+	<br><img src="imgs/strategic_fit.png" width=500><br>
+	1. Below the zone of strategic fit: long tail of customer demand
+		1. 80-20 Pareto rule assumes 80% of profit comes from top-20 SKUs, and this assumption is broken by e-commerce companies like Amazon, JD, etc.
+		1. Firms on the efficient end of the supply chain make money by pooling demand
+	1. Above the zone of strategic fit: bespoke manufacturers; not at all predictable demand
+	1. **StitchFix vs GAP**
+		1. Stitchfix has very certain and efficient supply chain
+		1. GAP has very uncertain demand; traditional retail is very unpredicatable and they have to build a supply chain to deal with that
+
+### Alibaba Group Speakers
+
+- Eric Pelletier, Head of International Relations, Alibaba Group
+- Bill Anaya, VP of International Affairs, Alibaba Group
+
+![](imgs/alibaba_ecosystem.png)
+![](imgs/china_retail.png)
 
 ### JD Case Notes
 
-#### Overview
+#### Overview of JD and Chinese Retail Landscape
 
 1. Second largest e-commerce company in China by Gross Merchandise Volume (GMV)
 1. Offer same-or-next-day delivery as a standard service for Chinese customers
+1. In 2016, China surpassed the United States as the world’s largest retail market; its total 2016 sales was $4.886 trillion compared to $4.823 trillion in the U.S
+1. Offline retail stores make up approximately 85% of China’s total retail market; in the US, this is 78.7% of total retail sales in 2020
+1. JD coined the term “boundaryless retail” to describe retail in the digital age. According to JD, retailing had become boundaryless in the following ways	
+	1. There were no physical boundaries to where and when consumers shopped. They could shop online, offline, on their computers, or on their mobile phones
+	1. Second, products had transcended their traditional uses. They might come with services and/or content and collect data simultaneously
+	1. Third, retailers must move beyond traditional ways of selling
+	online or in stores and engage with consumers to provide a personalized shopping experience
 
+#### JD History
+
+Despite its late arrival, JD distinguished itself among competitors with a staunch commitment to customer service and a zero tolerance policy toward counterfeits. To Liu, the essence of retail was about operating cost, efficiency, and customer experience
+
+Liu developed an inverted triangle model to show how JD delivered top customer service with great efficiency
+![](imgs/jd_triangle.png)
+
+On some other e-commerce platforms, those sellers that sell counterfeits could charge the same prices as sellers selling authentic products, and as a result, they have money to advertise on these platforms, and sometimes drive their competitors out of the market or convert them into counterfeit sellers. The platforms can profit from these ads and may not have incentives to intervene
+
+Shortly before its 2014 IPO, JD entered into a five-year strategic cooperation agreement and an eight-year non-compete agreement with Tencent, owner of the popular WeChat and Mobile QQ apps. The partnership gave JD access to the world’s largest mobile user base—WeChat’s over 1 billion active users
+
+JD’s partnership with Yonghui in 2015, China’s top supermarket that operated more than 500 local neighborhood stores, gave the company the capacity to offer fresh foods
+
+In 2016, JD formed a strategic partnership with Walmart. Walmart had entered China’s e-commerce market in 2011 by investing in Yihaodian, an e-commerce firm. But the venture was unsuccessful because it could not compete with Alibaba’s and JD’s dominance in e-commerce
+
+Thus in June 2016, Walmart sold its e-commerce operations to JD for an initial 5.0% stake. The stake increased to 10.1% by February 2017.  Under this partnership, JD would carry over 1,700 of the most popular items in Walmart’s physical stores in China and fulfill the orders with Dada’s logistics
+
+This partnership would expand JD’s offerings in imported products, and consumers could buy them directly from the Walmart store on JD. In return, with access to JD’s customers, delivery network, and big data, Walmart would boost its sales and improve its customer service
+
+#### JD Supply Chain
 
