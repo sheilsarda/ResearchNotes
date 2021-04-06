@@ -1,6 +1,6 @@
 # OID897 Supply Chains in China
 
-Prof. Gad Allon, Prof. Edwin Keh
+Prof. Gad Allon, Prof. Edwin Keh, Prof. Santiago Gallino
 
 ## Introduction Course 3.16.2021
 
@@ -23,36 +23,36 @@ Paper submission should happen on Canvas by **May 4th, 2021**
 - No more than 5 pages of exhibits / tables
 
 Groups for this project will be selected by the Professors, and can potentially
-be across timezones.
+be across time zones.
 
 ### Prof. Keh's Overview on China's Supply Chains
 
 - China has been intentionally raising the minimum wage every 5-years and at a much
 faster clip than inflation so it is intentionally pricing itself out of the market
-    - This is to bring the Chinese population out of poverty
-    - Leads to a discussion of onshoring or shifting to cheaper cost of labor economies
+  - This is to bring the Chinese population out of poverty
+  - Leads to a discussion of onshoring or shifting to cheaper cost of labor economies
 - China's Problems with Contract Manufacturing
-    <img src="imgs/shoe.png" width=600px>
-    - First $88 stay with footlocker, the retailer
-    - Nike's wholesale price of $40 don't go to China
-    - Rubber, Suede and other raw materials are imported in
-    - Bottom-line that China gets to keep is $1.50
-    - Cost of this $1.50 profit is the tremendous pollution and social issues so 
+    <br><img src="imgs/shoe.png" width=600px>
+  - First $88 stay with footlocker, the retailer
+  - Nike's wholesale price of $40 don't go to China
+  - Rubber, Suede and other raw materials are imported in
+  - Bottom-line that China gets to keep is $1.50
+  - Cost of this $1.50 profit is the tremendous pollution and social issues so
         China is trying to pivot away from contract manufacturing
-- Vietnam is gaining interest, but the entire size of Vietnam is equivalent to 
+- Vietnam is gaining interest, but the entire size of Vietnam is equivalent to
     a single province in China
 - Why Nation's Fail: there is a very strong tradeoff between coercion and innovation
-    - China currently has a balance between both of them
-    - Can you continue to innovate sustainably where there is a significant level of coercion
-    - AI is actually one usecase where systems that centrally locate data have an 
+  - China currently has a balance between both of them
+  - Can you continue to innovate sustainably where there is a significant level of coercion
+  - AI is actually one use case where systems that centrally locate data have an
         advantage over distributed systems
-    - We are in a new data-driven regime unlike any we have seen before, which might be 
+  - We are in a new data-driven regime unlike any we have seen before, which might be
         what is giving the nation an advantage
 - The further west in China you go, the more complicated the infrastructure is going to be,
     so eCommerce is a leveler because it gives everyone access to the same marketplaces
-    - Every year 300M people join the middle-class who have not seen any other 
+  - Every year 300M people join the middle-class who have not seen any other
         way to shop than eCommerce
-    - India is also similarly exciting because you have different groups of people with language
+  - India is also similarly exciting because you have different groups of people with language
         barriers, tastes, etc.
 
 ### Dean Garrett's Session
@@ -86,11 +86,11 @@ Most of the global growth of Starbucks in the last 5 years has been in China
 ##### Apple
 
 - Tim Cook is not shy about speaking to the importance of China in manufacturing
-    - He mentioned it's not because of cost, but talent and quality
-    - Quality of tooling engineers is best in China
+  - He mentioned it's not because of cost, but talent and quality
+  - Quality of tooling engineers is best in China
 - Producing in China is now more expensive than producing in Mexico
     because of tariffs, but US is still 27% more expensive
-    <img src="imgs/apple.png" width=800px>
+    <br><img src="imgs/apple.png" width=800px><br>
 - China is the second largest market for Apple devices now as well; iPhones are still a status symbol
 
 ##### Takeaways
@@ -99,26 +99,25 @@ Company's just try to fly under the radar to the extent that they can
 
 #### Chinese Companies - Huawei
 
-<img src="imgs/huawei.png" width=800px>
+<br><img src="imgs/huawei.png" width=800px><br>
 
 - US is a taker of technology and standards related to 5G; related to step-down in government
     investment in technology post-war
 - Qualcomm, Broadcom and Flex lobby Washington DC to not be as strict on Huawei because of the danger
     it poses on their supply chains
-    <img src="imgs/huawei_friends.png" width=700px>
+    <br><img src="imgs/huawei_friends.png" width=700px><br>
 - Huawei is making contingency plans to become a China-only company, but their entire future
     is being appended because of politics and not underlying economics
- 
+
 #### Global China
 
 - Largest infrastructure investor in the world
-    <img src="imgs/infra.png" width=800px>
+    <br><img src="imgs/infra.png" width=800px><br>
 - Expand market access
-    - Africa; raw materials
-    - Europe; more markets
+  - Africa; raw materials
+  - Europe; more markets
 - Have great infrastructure and want to export it
 - Want more friends on the global stage
-
 
 #### Five-Eyes, Quad
 
@@ -137,10 +136,10 @@ coverage of the southern-hemisphere
 
 ### Supply Chain Overview
 
-#### Overview 
+#### Overview
 
 1. Network that connects everything from procurement all the way to the customer (PoS)
-1. **What flows in the supply chain:**	
+1. **What flows in the supply chain:** 
     1. Product: flows from producer to consumer; also have reverse logistics going the other way
     1. Money: Timing of cashflows is a problem because a supplier is putting money into raw materials now but customer only pays after the entire product is manufactured and gets sold
         1. Cash Conversion Cycle (CCC): Apple and Amazon have -30days CCC
@@ -184,38 +183,38 @@ coverage of the southern-hemisphere
 - Eric Pelletier, Head of International Relations, Alibaba Group
 - Bill Anaya, VP of International Affairs, Alibaba Group
 
-![](imgs/alibaba_ecosystem.png)
-![](imgs/china_retail.png)
-![](imgs/fresh_hippo.png)
+![Alibaba](imgs/alibaba_ecosystem.png)
+![retail](imgs/china_retail.png)
+![retail](imgs/fresh_hippo.png)
 
 FreshHippo offers 30-min delivery to within a 3-km radius of the store; can be as large as an entire mall basement
 
-![](imgs/alibaba_supply_chain.png)
+![supply](imgs/alibaba_supply_chain.png)
 
 - Cainiao is a coordination platform for 3PL providers
 - Most products are 3P-merchants owned; JD is more of a 1P model
 - Cainiao is like UPS / FedEx; a merchant / customer can select who they want their goods delivered by, and the network makes it happen
 
-![](imgs/alibaba_11.11.png)
+![1111](imgs/alibaba_11.11.png)
 
 ### Tencent Speaker
 
 - Neo Liu, Head of NA Publishing, Tencent
-- Shirley Xue, Shirley Xue, GM at Tencent, M&A execution and Portfolio Management
-    - Currently at Soul App Tencent investment
-    - Soul App is a Chinese social networking and dating platform
+- Shirley Xue, GM at Tencent, M&A execution and Portfolio Management
+  - Currently at Soul App Tencent investment
+  - Soul App is a Chinese social networking and dating platform
 
 #### History of Tencent
 
-![](imgs/tencent_history.png)
+![History](imgs/tencent_history.png)
 
-**Agenda for expanding internationally**
+##### Agenda for expanding internationally
 
 - Cloud: privacy issues are prevalent, and this is a major blocker
 - Payments: privacy issues, same as cloud
 - Gaming: no limitations for international expansion; seeing massive growth in this vertical
 
-**Specific regions as targets for international expansion**
+##### Specific regions as targets for international expansion
 
 - If a lot of Chinese tourists go somewhere, we try to make it available there. E.g. Japan, Bay Area, etc.
 - Biggest blocker for international expansion is that some other messaging applications have already gained traction
@@ -223,20 +222,21 @@ FreshHippo offers 30-min delivery to within a 3-km radius of the store; can be a
 #### Mini Program
 
 Mini-program vs website:
-![](imgs/tencent_app_vs_site.png)
-![](imgs/tencent_program_eg.png)
+
+![Mini](imgs/tencent_app_vs_site.png)
+![Mini](imgs/tencent_program_eg.png)
 
 Setting up your own WeChat ecosystem using mini-programs
 
-![](imgs/tencent_api.png)
+![API](imgs/tencent_api.png)
 
 #### Mini Games
 
-![](imgs/tencent_games.png)
+![Games](imgs/tencent_games.png)
 
 #### Business Communication: WeChat Work
 
-![](imgs/tencent_slack.png)
+![Work](imgs/tencent_slack.png)
 
 #### WeChat Pay
 
@@ -244,17 +244,17 @@ Setting up your own WeChat ecosystem using mini-programs
 - Started with WeChat Red Envelope: like a social game
 - Different from AliPay, which is pure payments, because this has social aspect of money transfer
 
-![](imgs/tencent_pay.png)
+![Payments](imgs/tencent_pay.png)
 
-**PoS Methods using WeChat Pay**: 
+##### PoS Methods using WeChat Pay
 
 - Cut is lower than what credit cards take
 - Not bypassing credit / debit cards; still go through the bank
 - Both AliPay and WeChat Pay are working on facial recognition for payment authentication
 
-![](imgs/tencent_payments.png)
+![Payments](imgs/tencent_payments.png)
 
-**Comparison with Ant Financial**
+##### Comparison with Ant Financial
 
 - Tencent does not want to get into financial lending because it is too risky and attracts government attraction
 - WeChat does offer lending, but in a much more conservative way
@@ -264,7 +264,7 @@ Setting up your own WeChat ecosystem using mini-programs
 - Contribute to 50% of WeChat revenue
 - 33% of total Tencent revenue comes from games
 
-![](imgs/tencent_esports.png)
+![eSports](imgs/tencent_esports.png)
 
 #### WeChat Advertising
 
@@ -272,8 +272,8 @@ Setting up your own WeChat ecosystem using mini-programs
 - Tencent has more brand ads, instead of geared towards conversion
 - Tencent allows you to have more experiences behind ads than other platforms with linked miniprograms, etc.
 
-![](imgs/tencent_official_acct.png)
-![](imgs/tencent_program_ads.png)
+![Ads](imgs/tencent_official_acct.png)
+![Ads](imgs/tencent_program_ads.png)
 
 #### Market Competition
 
@@ -283,7 +283,7 @@ Setting up your own WeChat ecosystem using mini-programs
 
 #### Tencent Appendix
 
-![](imgs/tencent_appendix.png)
+![Tencent](imgs/tencent_appendix.png)
 
 ### [JD Case Notes](https://github.com/sheilsarda/ResearchNotes/blob/master/china_supply_chains/Cases/JD%20Envisioning%20the%20Future%20of%20Retail%20(A).pdf)
 
@@ -299,8 +299,8 @@ Setting up your own WeChat ecosystem using mini-programs
     1. Third, retailers must move beyond traditional ways of selling
     online or in stores and engage with consumers to provide a personalized shopping experience
 
-![](imgs/jd_bamboo.png)
-![](imgs/china_retail_revolution.png)
+![JD](imgs/jd_bamboo.png)
+![JD](imgs/china_retail_revolution.png)
 
 #### JD History
 
@@ -321,7 +321,7 @@ This partnership would expand JD’s offerings in imported products, and consume
 #### JD Supply Chain
 
 Liu developed an inverted triangle model to show how JD delivered top customer service with great efficiency
-![](imgs/jd_triangle.png)
+![Triangle](imgs/jd_triangle.png)
 
 Its distribution centers had three tiers:
     - regional distribution centers
@@ -336,8 +336,8 @@ We call this process **short chain**
 
 Because JD sourced many products by itself, the team relied on demand forecasting to determine how many of certain products to source at certain times of the year
 
-![](imgs/jd_forecasting.png)
-![](imgs/jd_services.png)
+![Forecasting](imgs/jd_forecasting.png)
+![Services](imgs/jd_services.png)
 
 #### Future of Chinese Commerce
 
@@ -356,19 +356,25 @@ Alibaba New Retail:
 
 ### Jon Huntsman - Former US Ambassador to China
 
+![Jon Huntsman](imgs/jon_huntsman.png)
+
 1. Private sector is more likely to bring change in China based on best-practices in business
 1. To what extent did the previous administration shape what's going to happen in the future
     1. China has arrived on the global scene and their confidence is very high
     1. Test them the first little while to see how they are going to respond
-        - Expect something in the South and East China Sea
-        - Expect more bluster on the negotiation tables
-        - They are now willing to take on the US in the public eye and calling people out
+        1. Expect something in the South and East China Sea
+        1. Expect more bluster on the negotiation tables
+        1. They are now willing to take on the US in the public eye and calling people out
 1. The question in boardrooms right now is to what extent do we need to go full-throttle in China vs hedging our bets by managing supply chains in various countries
    1. At what point does this get politicized
    1. Backlash could be people boycotting products, strikes in front of your manufacturing plants
    1. Biden is going to find areas where there is collaboration with China, and will work with US allies
 1. Many of our allies are waiting for a grand strategy that can be sustained
    1. We are put on the defensive when dealing with countries who have a longer-term trade strategy
+   1. Amy Schumer is going to come forward with a Christmas tree style agenda with a lot of amendments and a plan to get Capitol Hill unified
+1. Taiwan: what does our security guarantee for Taiwan mean; is there a de-escalation strategy?
+   1. Economic strategy with Taiwan has always been robust, especially in the semiconductor sector
+   1. Nvidia and Intel are going long in the US, which will reduce some importance of Taiwan as a trading partner
 
 ### Rick Helfenbien
 
