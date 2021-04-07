@@ -421,8 +421,8 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 #### How to make clothing more sustainable
 
 1. Desire to do it exists, but materials are not as comfortable to wear
-1. Besides Patagonia, a few brands have also been able to be the good guys all the time like VF Corportaion
-1. Problems happen where the rubber meets the road on sustainability; how do you handle when economies are not doilng well
+1. Besides Patagonia, a few brands have also been able to be the good guys all the time like VF Corporation
+1. Problems happen where the rubber meets the road on sustainability; how do you handle when economies are not doing well
 
 ### Wilkie Wong
 
@@ -440,3 +440,7 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 1. Expecting US sales in 2040 to shrink to 20% and China sales to fill in the gap
 
 ![Textile Trade](imgs/textile_trade.png)
+
+1. Abolishment of Quotas made a significant change in the way supply chains were structured because there were no longer regulations preventing market entry
+1. This led to consolidation because now retailers could concentrate their buying dollars with just a few manufacturers
+1. Supply chains were set up in an awkward way with goods routed through countries which have larger quotas like Hong Kong and manufactured in different countries like China
