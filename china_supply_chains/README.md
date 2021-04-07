@@ -354,7 +354,7 @@ Alibaba New Retail:
 
 ## US China Trade Relationships 4.6.2021
 
-### Jon Huntsman - Former US Ambassador to China
+### Jon Huntsman Jr. - Former US Ambassador to China
 
 ![Jon Huntsman](imgs/jon_huntsman.png)
 
@@ -376,6 +376,27 @@ Alibaba New Retail:
    1. Economic strategy with Taiwan has always been robust, especially in the semiconductor sector
    1. Nvidia and Intel are going long in the US, which will reduce some importance of Taiwan as a trading partner
 
-### Rick Helfenbien
+### Rick Helfenbien - Retail & Fashion Industry Consultant
+
+- [About Speaker](https://www.rickhelfenbein.com/about-rick.html)
+- Former Chairman, President & CEO American Apparel & Footwear Association
+- He also served as President of all USA operations for Luen Thai Holdings Limited (Hong Kong) and was in charge of the USA Companies in New York, New Jersey, Ohio, and California
+- Mr. Helfenbein has worked extensively in USA domestic manufacturing as well as the Caribbean, China, and in most points of Asia.
+He was a President at Lacoste and a Managing Director at Burlington Industries
+
+#### About Retail's performance since COVID
+
+1. Clothing and accessories is down 15% but the retail category as a whole is up 15%
+1. Retail supports 1 out of every 4 jobs in the US, so when retail takes a hit, everything does
+1. Largest string of bankruptcies in 10 years; lost 11,000 fashion stores
+1. Had way too much space (sq. feet per person) and COVID only accelerated this vacating of space
+
+#### US China Trade War and Retail
+
+1. Trump tried to manually balance trade with China, whereas this should expand and contract based on looseness of the economic climate
+1. Economist Peter Navarro escalated this issue further by trumping up charges on China
+1. Apparel and Footwear were not included in tranche 1 and 2, but they started nipping at this category from tranche 3
+1. Prior to US China tariffs, this category already had tariffs with 20% duty from Smoot-Hawley; China is our number one supplier, and 40% of our apparel market
+1. 
 
 ### Wilkie Wong
