@@ -426,6 +426,10 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 
 ### Wilkie Wong
 
+- [Managing Director, Production Planning & Logistics at Esquel Group](https://www.linkedin.com/in/wilkiewong/)
+- BSc Civil Engineering, Columbia, MSc Operations Research, Columbia, MBA, MIT Sloan.
+- Esquel is a major apparel manufacturer making apparel for many major brands
+
 ![Wilkie Wong](imgs/wilkie_wong.png)
 
 ![China Apparel](imgs/china_garments.png)
@@ -444,3 +448,9 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 1. Abolishment of Quotas made a significant change in the way supply chains were structured because there were no longer regulations preventing market entry
 1. This led to consolidation because now retailers could concentrate their buying dollars with just a few manufacturers
 1. Supply chains were set up in an awkward way with goods routed through countries which have larger quotas like Hong Kong and manufactured in different countries like China
+1. When additional tariffs were implemented in 2016, companies shifted production of textiles to avoid import duty from China to Vietnam or share additional duties with customers
+
+![Xinjiang Sanctions](imgs/xinjiang_sanctions.png)
+![Xinjiang Sanctions](imgs/xinjiang_sanctions2.png)
+![Reverse Boycotts](imgs/reverse_boycotts.png)
+![Factory of the Future](imgs/esquel_factory.png)
