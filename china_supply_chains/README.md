@@ -378,6 +378,8 @@ Alibaba New Retail:
 
 ### Rick Helfenbien - Retail & Fashion Industry Consultant
 
+![Rick Helfenbien](imgs/rick_helfenbien.png)
+
 - [About Speaker](https://www.rickhelfenbein.com/about-rick.html)
 - Former Chairman, President & CEO American Apparel & Footwear Association
 - He also served as President of all USA operations for Luen Thai Holdings Limited (Hong Kong) and was in charge of the USA Companies in New York, New Jersey, Ohio, and California
@@ -397,6 +399,44 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 1. Economist Peter Navarro escalated this issue further by trumping up charges on China
 1. Apparel and Footwear were not included in tranche 1 and 2, but they started nipping at this category from tranche 3
 1. Prior to US China tariffs, this category already had tariffs with 20% duty from Smoot-Hawley; China is our number one supplier, and 40% of our apparel market
-1. 
+1. Biden administration is holding off on doing anything about tariffs for now
+1. Top three frictions when thinking about transitioning away from China manufacturing
+   1. As a commodity maker (sweatshirts, underwear, etc.) where long runs of simple products, Central America is great because we're great at growing and spinning cotton
+   1. We're not great at assembling, so you can send to Mexico, Haiti, etc.
+   1. This does not work well for the [*iTY* generation](https://www.forbes.com/sites/rickhelfenbein/2020/10/30/americas-sustainable-election-retail-moves-from-ation-nation-to-the-ity-economy/?sh=2279d2585b50) who want quick turns; to meet all the requirements, companies need to have a supply chain in China as well
+      - equality
+      - diversity
+      - circularity
+      - traceability
+      - sustainability
+1. Barriers currently making it hard to do business with China
+   1. Costlier to buy from China right now because RMB appreciated
+   1. Bankruptcies in retail industry emerged months later, but these managers are now demanding hard terms, demanding 90 days of receipts; this might not work for Chinese manufacturers
+   1. Credit markets are dry to the bone, so borrowing for PO financing is a problem
+   1. Xinxiang is a major issue right now, both for getting materials out of China from this region, or to send products to sell in USA (because of boycotting)
+1. Advice for the boardroom
+   1. Stay out of politics, because there is no way to win in the court room
+   1. Rick advised the AAFA industry association to be a purveyor of information, but don't take a position; after he left, they took a position of being against forced labor
+
+#### How to make clothing more sustainable
+
+1. Desire to do it exists, but materials are not as comfortable to wear
+1. Besides Patagonia, a few brands have also been able to be the good guys all the time like VF Corportaion
+1. Problems happen where the rubber meets the road on sustainability; how do you handle when economies are not doilng well
 
 ### Wilkie Wong
+
+![Wilkie Wong](imgs/wilkie_wong.png)
+
+![China Apparel](imgs/china_garments.png)
+
+![Global Market](imgs/garment_market.png)
+
+#### Global Garment Sales by Region
+
+1. Europe used to be 10-15 and is now 25%
+1. China grew from <5% to 22%
+1. US shrunk from 50% to 30%
+1. Expecting US sales in 2040 to shrink to 20% and China sales to fill in the gap
+
+![Textile Trade](imgs/textile_trade.png)
