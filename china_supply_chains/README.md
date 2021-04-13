@@ -456,6 +456,49 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 
 ## Selling in China 4.13.2021
 
+## Aamir Sakhia - Chief Operating Officer, Lane Crawford
+
+![Aamir](imgs/aamir_sakhia.png)
+
+### About Lane Crawford
+
+- Lane Crawford is a Department Store selling luxury goods in Hong Kong and Mainland China
+- Founded in Hong Kong in 1850, Lane Crawford has more than 54,348 square metres of total retail space, including several physical locations throughout China, as well as an online store
+- Lane Crawford is a part of The Lane Crawford Joyce Group, a fashion retail and brand management group in Asia which also includes Joyce Boutique, Pedder Group and ImagineX
+
+### How have customers in China evolved
+
+- Shift from cash to digital
+- Brand preferences have moved beyond even the most well-known global brands, and more towards individual designers
+- Shift in interest from products towards experiences, turbo-charged during the pandemic
+- Move from consumption offshore to onshore
+	- Historically, the majority of luxury purchases used to occur outside of the mainland 
+	- Legitimate distribution is now readily available with the same product availability
+	- Prices have also harmonized more, and domestic duty free has helped in this regard
+
+### Supply Chains
+
+- Two seperate supply chains for HK vs mainland China
+- China has made huge inroads in automation and simplifying clearance procedures
+- Everyone needs to work through a 3PL because there are still some complications
+- Comparing efficiencies between the two:
+	- Don't pick-up anything outside of China until we have figured out that it can get cleared
+	- Labeling requirements for China are unique and need to be specified in a certain way and affixed on the garment
+	- Because of the differences in the style and brand assortment for mainland China vs HK, it doesn't make sense to harmonize these supply chains
+
+### Complexities that still exist
+
+- All aparrel needs to go through an inspection process via CIQ where garments' composition are checked against authentic goods
+- Beauty brands that were resistant to animal testing have not been available on the mainland for a long time, although some exceptions have been made recently
+
+### Variances between Chinese markets
+
+- Brand portfolios
+	- Chengdu is much more mix and match, have a high and low market
+	- Shanghai knowledge-base and awareness about fashion is much more broad-based
+- Chengdu's customers are more willing to experiment with more colors and trends
+- Beijing's customers are pretty definitive on what they want, so teams need to be less flexible in the products they introduce
+
 ## Ming Mei - CEO, Co-Founder GLP 
 
 ### About GLP 
@@ -472,15 +515,4 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 - [Yum China Holdings, Inc.](https://ir.yumchina.com/investor-overview) is China’s largest restaurant company
 - Operates over 10,000 restaurants in over 1,400 cities and towns spanning every province and autonomous region across mainland China
 - Yum China became an independent publicly traded company on November 1, 2016 on the NYSE, and was secondary-listed on the HKEX on September 10, 2020
-
-## Aamir Sakhia - Chief Operating Officer, Lane Crawford
-
-### About Lane Crawford
-
-- Lane Crawford is a Department Store selling luxury goods in Hong Kong and Mainland China
-- Founded in Hong Kong in 1850, Lane Crawford has more than 54,348 square metres of total retail space, including several physical locations throughout China, as well as an online store
-- Lane Crawford is a part of The Lane Crawford Joyce Group, a fashion retail and brand management group in Asia which also includes Joyce Boutique, Pedder Group and ImagineX
-
-
-
 
