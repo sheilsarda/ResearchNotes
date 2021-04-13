@@ -424,9 +424,8 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 1. Besides Patagonia, a few brands have also been able to be the good guys all the time like VF Corporation
 1. Problems happen where the rubber meets the road on sustainability; how do you handle when economies are not doing well
 
-### Wilkie Wong
+### Wilkie Wong - Managing Director, Production Planning & Logistics at Esquel Group
 
-- [Managing Director, Production Planning & Logistics at Esquel Group](https://www.linkedin.com/in/wilkiewong/)
 - BSc Civil Engineering, Columbia, MSc Operations Research, Columbia, MBA, MIT Sloan.
 - Esquel is a major apparel manufacturer making apparel for many major brands
 
@@ -454,3 +453,34 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 ![Xinjiang Sanctions](imgs/xinjiang_sanctions2.png)
 ![Reverse Boycotts](imgs/reverse_boycotts.png)
 ![Factory of the Future](imgs/esquel_factory.png)
+
+## Selling in China 4.13.2021
+
+## Ming Mei - CEO, Co-Founder GLP 
+
+### About GLP 
+
+- GLP was founded in 2009 as a logistics real estate investor, developer and operator for the logistics industry
+- Leading global investment manager and business builder in logistics, real estate, infrastructure, finance and related technologies
+- Have one of the largest industrial real estate portfolio in China, Brazil, Japan, and the US
+- In 2020, GLP took a major share of Li & Fung (one of the largest consumer sourcing companies in the world)
+
+## Danny Tan - Chief Supply Chain Officer, Yum China
+
+### About Yum China
+
+- [Yum China Holdings, Inc.](https://ir.yumchina.com/investor-overview) is China’s largest restaurant company
+- Operates over 10,000 restaurants in over 1,400 cities and towns spanning every province and autonomous region across mainland China
+- Yum China became an independent publicly traded company on November 1, 2016 on the NYSE, and was secondary-listed on the HKEX on September 10, 2020
+
+## Aamir Sakhia - Chief Operating Officer, Lane Crawford
+
+### About Lane Crawford
+
+- Lane Crawford is a Department Store selling luxury goods in Hong Kong and Mainland China
+- Founded in Hong Kong in 1850, Lane Crawford has more than 54,348 square metres of total retail space, including several physical locations throughout China, as well as an online store
+- Lane Crawford is a part of The Lane Crawford Joyce Group, a fashion retail and brand management group in Asia which also includes Joyce Boutique, Pedder Group and ImagineX
+
+
+
+
