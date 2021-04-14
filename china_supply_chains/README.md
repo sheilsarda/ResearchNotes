@@ -34,7 +34,7 @@ faster clip than inflation so it is intentionally pricing itself out of the mark
 - China's Problems with Contract Manufacturing
     
     ![Shoes](imgs/shoe.png)
-    
+
   - First $88 stay with footlocker, the retailer
   - Nike's wholesale price of $40 don't go to China
   - Rubber, Suede and other raw materials are imported in
@@ -580,6 +580,8 @@ Food Innovation
 
 ## Ming Mei - CEO, Co-Founder GLP 
 
+![Ming Mei](imgs/ming_mei.png)
+
 ### About GLP 
 
 - GLP was founded in 2009 as a logistics real estate investor, developer and operator for the logistics industry
@@ -587,3 +589,29 @@ Food Innovation
 - Have one of the largest industrial real estate portfolio in China, Brazil, Japan, and the US
 - In 2020, GLP took a major share of Li & Fung (one of the largest consumer sourcing companies in the world)
 
+### Warehouses
+
+- What differentiates the cost of a warehouse facility these days is location (land costs)
+- International standards of floor height are 10.5 meters
+- Ways things were sold and distributed shaped the infrastructure
+	- Moving towards same-day delivery, regional distribution centers do not work
+	- Need to have city and even neighborhood distributions
+- Logistics is now becoming a service that can differentiate your product offering
+	- The end-user now has more visibility on the logistics
+	- Can now start pricing logistics as an added service and invest more in making it better
+	- To make 30-minute delivery happen, you need to have robust forecasting and warehousing up until the last mile
+
+### New Business Models Disrupting Big-Box Retail
+
+- There exists companies in Guangzhou that use social media to detect demand for a new design
+- From the time they gather enough demand, it is a 1-week turnaround time to manufacture and ship to USA at a $4-5 price point
+- Compared to a Walmart, a garment that you see in stores there took 9 months from concept to reaching the shop floor
+- 7 Boeing 747 worth of products leaving the Guangzhou airport every day, and this one company is purchasing 30% of all available air cargo space
+- The supply chain configurations needed to make this happen are small-batches, have raw materials and machines all on-site, etc.
+
+### Evaluating People
+
+- If someone walks around thinking that everything they have is because they are smart, they don't have the right humility that we're looking for
+- Want people who are hardworking and smart, but not full of themselves
+- If you hire a racing horse, don't need to smack it to make it run fast, but if you hire a different animal (e.g. pig), no amount of smacking will make it fast
+- No asshole policy that we take very seriously
