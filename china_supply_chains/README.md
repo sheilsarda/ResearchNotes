@@ -600,6 +600,12 @@ Food Innovation
 	- The end-user now has more visibility on the logistics
 	- Can now start pricing logistics as an added service and invest more in making it better
 	- To make 30-minute delivery happen, you need to have robust forecasting and warehousing up until the last mile
+- Cost of sensors are now so low that you can measure usage of an asset at the smallest unit, so you can now turn this asset into a service so that people can be charged for their usage
+- Warehouses in China are very similar to US and Europe, but the warehouses in Japan have different configurations
+	- Japan assets go vertical because of the scarcity of land
+	- Warehouses in Japan are 2/3rd of the net clear height compared to US and Europe
+	- Warehouses in Shanghai, Beijing are moving towards this vertical model as well
+	- Previously warehouses were built for forklift capabilities, but now automation technology has eliminated these constraints
 
 ### New Business Models Disrupting Big-Box Retail
 
@@ -608,6 +614,11 @@ Food Innovation
 - Compared to a Walmart, a garment that you see in stores there took 9 months from concept to reaching the shop floor
 - 7 Boeing 747 worth of products leaving the Guangzhou airport every day, and this one company is purchasing 30% of all available air cargo space
 - The supply chain configurations needed to make this happen are small-batches, have raw materials and machines all on-site, etc.
+- Big box stores currently lease warehouses from players like GLP
+- A lot of times, the products are not getting made until the consumer actually buys the product (C2M : Consumer to Manufacturer)
+	- Consumers think they have a choice, but nothing random is cheap or efficient
+	- All the data manufacturers collect about consumers make the manufacturers very smart on what each customer is going to buy at the end of the day even before they make a choice
+	- Data-driven planned economy 
 
 ### Evaluating People
 
@@ -615,3 +626,19 @@ Food Innovation
 - Want people who are hardworking and smart, but not full of themselves
 - If you hire a racing horse, don't need to smack it to make it run fast, but if you hire a different animal (e.g. pig), no amount of smacking will make it fast
 - No asshole policy that we take very seriously
+
+### Attracting the Right Investors
+
+- Government of Singapore backed us for managing $1.3B in a joint venture, one of the earliest sovereign wealth funds
+- Expanded to Canadian Pensions, Abu Dabhi sovereign wealth fund, etc.
+- For the longest time we used to only have a dozen LPs, but now we have a 100 LPs
+- $100M to $1B check size each time
+- Our returns have motivated LPs to re-invest all the time
+- When we announced we were buying a business from Blackstone, our stock price got hammered because people thought we were making the wrong decision by buying from the smart ones (i.e. all the value had already been captured)
+	- Turned around operations
+	- Sold non-performing assets
+	- Filed for IPO, lined up other backers
+	- Turned a core investment into opportunistic returns
+	- Sold back to Blackstone for $19B
+	
+
