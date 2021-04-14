@@ -463,7 +463,7 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 ### About Lane Crawford
 
 - Lane Crawford is a Department Store selling luxury goods in Hong Kong and Mainland China
-- Founded in Hong Kong in 1850, Lane Crawford has more than 54,348 square metres of total retail space, including several physical locations throughout China, as well as an online store
+- Founded in Hong Kong in 1850, Lane Crawford has more than 54,348 square meters of total retail space, including several physical locations throughout China, as well as an online store
 - Lane Crawford is a part of The Lane Crawford Joyce Group, a fashion retail and brand management group in Asia which also includes Joyce Boutique, Pedder Group and ImagineX
 
 ### How have customers in China evolved
@@ -475,29 +475,44 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 	- Historically, the majority of luxury purchases used to occur outside of the mainland 
 	- Legitimate distribution is now readily available with the same product availability
 	- Prices have also harmonized more, and domestic duty free has helped in this regard
+- Dynamism of online shopping in China is interesting, but our value is primarily in how we provide the next level of personalized service
 
 ### Supply Chains
 
-- Two seperate supply chains for HK vs mainland China
+- Two separate supply chains for HK vs mainland China
 - China has made huge inroads in automation and simplifying clearance procedures
 - Everyone needs to work through a 3PL because there are still some complications
 - Comparing efficiencies between the two:
 	- Don't pick-up anything outside of China until we have figured out that it can get cleared
 	- Labeling requirements for China are unique and need to be specified in a certain way and affixed on the garment
 	- Because of the differences in the style and brand assortment for mainland China vs HK, it doesn't make sense to harmonize these supply chains
+- In HK, we own 100% of the supply chain (owning SKUs, logistics, etc.), so 1PL 
+- 1P owned SKUs and use 3PL to fulfill store demand in China
+	- 3PL runs warehouse and online fulfillment using the Beijing, Chengdu and Shanghai stores as fulfillment centers
+	- Have been working with the same 3PL for over 20 years, and we are very involved in the day-to-day ops
+	- Have KPIs that we measure around cost, lead-time, etc. with SLAs
+	- Ability to use stores as pack centers in China improves speed of delivery, but we're not going to be the fastest because we include all our store inventory online which requires synchronization
 
 ### Complexities that still exist
 
-- All aparrel needs to go through an inspection process via CIQ where garments' composition are checked against authentic goods
+- All apparel needs to go through an inspection process via CIQ where garments' composition are checked against authentic goods
 - Beauty brands that were resistant to animal testing have not been available on the mainland for a long time, although some exceptions have been made recently
+- Our supply chain starts when our brands finish production, so our sustainability initiatives are focused on de-carbonizing our transportation
 
 ### Variances between Chinese markets
 
 - Brand portfolios
 	- Chengdu is much more mix and match, have a high and low market
 	- Shanghai knowledge-base and awareness about fashion is much more broad-based
-- Chengdu's customers are more willing to experiment with more colors and trends
-- Beijing's customers are pretty definitive on what they want, so teams need to be less flexible in the products they introduce
+- Chengdu customers are more willing to experiment with more colors and trends
+- Beijing customers are pretty definitive on what they want, so teams need to be less flexible in the products they introduce
+
+### Growth Strategy
+
+- We're not going to be the best at same-day delivery compared to the pure-play online sites
+- It's not that online is not important, but if we don't know you as a customer outside of online you won't get the full experience
+- The most valuable customers for us are primarily offline + online (digital engagement)
+- Our sales teams have the tools necessary to make the omni-channel experience frictionless
 
 ## Ming Mei - CEO, Co-Founder GLP 
 
