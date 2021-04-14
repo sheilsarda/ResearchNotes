@@ -514,6 +514,38 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 - The most valuable customers for us are primarily offline + online (digital engagement)
 - Our sales teams have the tools necessary to make the omni-channel experience frictionless
 
+## Danny Tan - Chief Supply Chain Officer, Yum China
+
+![Danny](imgs/danny_tan.png)
+
+### About Yum China
+
+- [Yum China Holdings, Inc.](https://ir.yumchina.com/investor-overview) is China’s largest restaurant company
+- Operates over 10,000 restaurants in over 1,400 cities and towns spanning every province and autonomous region across mainland China
+- Yum China became an independent publicly traded company on November 1, 2016 on the NYSE, and was secondary-listed on the HKEX on September 10, 2020
+
+### Yum China Menu Offerings
+
+![Menu](imgs/kfc_menu.png)
+![Menu](imgs/kfc_specials.png)
+![Menu](imgs/pizza_hut_offers.png)
+![Menu](imgs/pizza_hut_specials.png)
+![Menu](imgs/yum_products.png)
+![Menu](imgs/yum_brands.png)
+![Menu](imgs/yum_coffee.png)
+
+###  Growth Strategy
+
+- China's GDP is only 20% of the USA
+- Shanghai and Beijing are highly penetrated, but there is a lot of growth opportunities everywhere
+- We can grow to 20,000 stores easily
+
+### Yum Supply Chain
+
+![SC](imgs/supply_chain.png)
+![SC](imgs/supply_chain_tech.png)
+![SC](imgs/supply_chain_college.png)
+
 ## Ming Mei - CEO, Co-Founder GLP 
 
 ### About GLP 
@@ -522,12 +554,4 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 - Leading global investment manager and business builder in logistics, real estate, infrastructure, finance and related technologies
 - Have one of the largest industrial real estate portfolio in China, Brazil, Japan, and the US
 - In 2020, GLP took a major share of Li & Fung (one of the largest consumer sourcing companies in the world)
-
-## Danny Tan - Chief Supply Chain Officer, Yum China
-
-### About Yum China
-
-- [Yum China Holdings, Inc.](https://ir.yumchina.com/investor-overview) is China’s largest restaurant company
-- Operates over 10,000 restaurants in over 1,400 cities and towns spanning every province and autonomous region across mainland China
-- Yum China became an independent publicly traded company on November 1, 2016 on the NYSE, and was secondary-listed on the HKEX on September 10, 2020
 
