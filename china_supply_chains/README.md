@@ -539,12 +539,36 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 - China's GDP is only 20% of the USA
 - Shanghai and Beijing are highly penetrated, but there is a lot of growth opportunities everywhere
 - We can grow to 20,000 stores easily
+- Penetration into lower tier-cities
+	- Different store sizes in smaller cities
+	- Smaller cities are more price sensitive, so more tailored products for their preferences
+- Coffee is still a huge untapped opportunity in China that Starbucks, Tim Hortons, etc. are trying to get a slice of the pie of
+	- Manage commodity price cycle and provide the same high quality cup regardless of these prices
+	- Invested in Lavazza to try to make a dent in this market
 
 ### Yum Supply Chain
 
-![SC](imgs/supply_chain.png)
-![SC](imgs/supply_chain_tech.png)
-![SC](imgs/supply_chain_college.png)
+![SC](imgs/yum_supply_chain.png)
+![SC](imgs/yum_supply_chain_tech.png)
+![SC](imgs/yum_supply_chain_college.png)
+![SC](imgs/yum_supply_chain_stages.png)
+
+Food delivery at scale
+
+- Run our supply chain in-house, including logistics centers, warehouses, etc.
+- Track product temperature in route for all frozen and chilled products to detect spoilage
+
+### Factors shaping success in dine-in format
+
+- Pizza hut used to be a window to the Western world
+- Evolved into a cross between Cheescake Factory and Applebee's to keep up with the interest of the global Chinese customer
+- Pioneer of digital technologies for ordering and interacting with our physical presence
+- Still learning about Taco Bell's presence and how it can resonate with the Chinese customer, but we hope to grow it to be as large as KFC or Pizza Hut one day
+
+### Sustainability Efforts
+
+![Sustainability](yum_sustainability.png)
+![Sustainability](yum_sustainability_indices.png)
 
 ## Ming Mei - CEO, Co-Founder GLP 
 
