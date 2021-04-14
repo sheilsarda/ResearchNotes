@@ -32,7 +32,9 @@ faster clip than inflation so it is intentionally pricing itself out of the mark
   - This is to bring the Chinese population out of poverty
   - Leads to a discussion of onshoring or shifting to cheaper cost of labor economies
 - China's Problems with Contract Manufacturing
-    <br><img src="imgs/shoe.png" width=600px>
+    
+    ![Shoes](imgs/shoe.png)
+    
   - First $88 stay with footlocker, the retailer
   - Nike's wholesale price of $40 don't go to China
   - Rubber, Suede and other raw materials are imported in
@@ -321,6 +323,7 @@ This partnership would expand JD’s offerings in imported products, and consume
 #### JD Supply Chain
 
 Liu developed an inverted triangle model to show how JD delivered top customer service with great efficiency
+
 ![Triangle](imgs/jd_triangle.png)
 
 Its distribution centers had three tiers:
@@ -430,9 +433,7 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 - Esquel is a major apparel manufacturer making apparel for many major brands
 
 ![Wilkie Wong](imgs/wilkie_wong.png)
-
 ![China Apparel](imgs/china_garments.png)
-
 ![Global Market](imgs/garment_market.png)
 
 #### Global Garment Sales by Region
@@ -545,6 +546,8 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 - Coffee is still a huge untapped opportunity in China that Starbucks, Tim Hortons, etc. are trying to get a slice of the pie of
 	- Manage commodity price cycle and provide the same high quality cup regardless of these prices
 	- Invested in Lavazza to try to make a dent in this market
+- Position ourselves as a food platform for high quality food experiences, both local and western
+- New store openings are now a science rather than an art, with robust processes which use inputs like demographics, comparable stores, etc. 
 
 ### Yum Supply Chain
 
@@ -558,17 +561,22 @@ Food delivery at scale
 - Run our supply chain in-house, including logistics centers, warehouses, etc.
 - Track product temperature in route for all frozen and chilled products to detect spoilage
 
+Food Innovation
+
+- Involved in food innovation from the get-go
+- Ensures food quality and delivery SLAs are always met
+
 ### Factors shaping success in dine-in format
 
 - Pizza hut used to be a window to the Western world
-- Evolved into a cross between Cheescake Factory and Applebee's to keep up with the interest of the global Chinese customer
+- Evolved into a cross between Cheesecake Factory and Applebee's to keep up with the interest of the global Chinese customer
 - Pioneer of digital technologies for ordering and interacting with our physical presence
 - Still learning about Taco Bell's presence and how it can resonate with the Chinese customer, but we hope to grow it to be as large as KFC or Pizza Hut one day
 
 ### Sustainability Efforts
 
-![Sustainability](yum_sustainability.png)
-![Sustainability](yum_sustainability_indices.png)
+![Sustainability](imgs/yum_sustainability.png)
+![Sustainability](imgs/yum_sustainability_indices.png)
 
 ## Ming Mei - CEO, Co-Founder GLP 
 
