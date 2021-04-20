@@ -645,12 +645,38 @@ Food Innovation
 
 ### Student Presentations
 
-### Christine Lohi - CEO, Civic Exchange
+### Christine Loh - CEO, Civic Exchange
+
+![Christine Loh](imgs/christine_loh.png)
 
 - Former Hong Kong Legislative Councilor
 - Founder of the Citizens Party and Hong Kong Human Rights Monitor
 - From 2012 to 2017, she was Under Secretary for the Environment in HK
 - In 2017, she became an adjunct professor in the Division of Environment and Sustainability at the Hong Kong University of Science and Technology
+
+### China's Development Narrative
+
+- For Asia, the notion of development and advancement is very important
+- China Dream Narrative
+- Strong party, strong state narrative
+
+![China Narrative](imgs/china_narrative1.png)
+
+### Carbon Neutrality
+
+- China is the biggest carbon emitter in the world
+- Climate change is an existential risk for manking but finger-pointing at China is not going to help
+
+![China Carbon](imgs/china_carbon_neutral.png)
+![China Carbon](imgs/china_carbon_output.png)
+
+### Carbon Emissions Breakdown
+
+- China became largest C02 emitter by 2007
+- Other economies shifted production to China and imported at cheaper prices
+- To make products for export, China started importing raw materials and energy producing commodities
+
+![China Carbon](imgs/china_carbon_observations.png)
 
 ### Hui Feng Zhang - HSBC Regional Head of Sustainability
 
