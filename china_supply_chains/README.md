@@ -457,17 +457,17 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 
 ## Selling in China 4.13.2021
 
-## Aamir Sakhia - Chief Operating Officer, Lane Crawford
+### Aamir Sakhia - Chief Operating Officer, Lane Crawford
 
 ![Aamir](imgs/aamir_sakhia.png)
 
-### About Lane Crawford
+#### About Lane Crawford
 
 - Lane Crawford is a Department Store selling luxury goods in Hong Kong and Mainland China
 - Founded in Hong Kong in 1850, Lane Crawford has more than 54,348 square meters of total retail space, including several physical locations throughout China, as well as an online store
 - Lane Crawford is a part of The Lane Crawford Joyce Group, a fashion retail and brand management group in Asia which also includes Joyce Boutique, Pedder Group and ImagineX
 
-### How have customers in China evolved
+#### How have customers in China evolved
 
 - Shift from cash to digital
 - Brand preferences have moved beyond even the most well-known global brands, and more towards individual designers
@@ -478,7 +478,7 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 	- Prices have also harmonized more, and domestic duty free has helped in this regard
 - Dynamism of online shopping in China is interesting, but our value is primarily in how we provide the next level of personalized service
 
-### Supply Chains
+#### Supply Chains
 
 - Two separate supply chains for HK vs mainland China
 - China has made huge inroads in automation and simplifying clearance procedures
@@ -494,13 +494,13 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 	- Have KPIs that we measure around cost, lead-time, etc. with SLAs
 	- Ability to use stores as pack centers in China improves speed of delivery, but we're not going to be the fastest because we include all our store inventory online which requires synchronization
 
-### Complexities that still exist
+#### Complexities that still exist
 
 - All apparel needs to go through an inspection process via CIQ where garments' composition are checked against authentic goods
 - Beauty brands that were resistant to animal testing have not been available on the mainland for a long time, although some exceptions have been made recently
 - Our supply chain starts when our brands finish production, so our sustainability initiatives are focused on de-carbonizing our transportation
 
-### Variances between Chinese markets
+#### Variances between Chinese markets
 
 - Brand portfolios
 	- Chengdu is much more mix and match, have a high and low market
@@ -508,24 +508,24 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 - Chengdu customers are more willing to experiment with more colors and trends
 - Beijing customers are pretty definitive on what they want, so teams need to be less flexible in the products they introduce
 
-### Growth Strategy
+#### Growth Strategy
 
 - We're not going to be the best at same-day delivery compared to the pure-play online sites
 - It's not that online is not important, but if we don't know you as a customer outside of online you won't get the full experience
 - The most valuable customers for us are primarily offline + online (digital engagement)
 - Our sales teams have the tools necessary to make the omni-channel experience frictionless
 
-## Danny Tan - Chief Supply Chain Officer, Yum China
+### Danny Tan - Chief Supply Chain Officer, Yum China
 
 ![Danny](imgs/danny_tan.png)
 
-### About Yum China
+#### About Yum China
 
 - [Yum China Holdings, Inc.](https://ir.yumchina.com/investor-overview) is China’s largest restaurant company
 - Operates over 10,000 restaurants in over 1,400 cities and towns spanning every province and autonomous region across mainland China
 - Yum China became an independent publicly traded company on November 1, 2016 on the NYSE, and was secondary-listed on the HKEX on September 10, 2020
 
-### Yum China Menu Offerings
+#### Yum China Menu Offerings
 
 ![Menu](imgs/kfc_menu.png)
 ![Menu](imgs/kfc_specials.png)
@@ -535,7 +535,7 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 ![Menu](imgs/yum_brands.png)
 ![Menu](imgs/yum_coffee.png)
 
-###  Growth Strategy
+####  Growth Strategy
 
 - China's GDP is only 20% of the USA
 - Shanghai and Beijing are highly penetrated, but there is a lot of growth opportunities everywhere
@@ -549,7 +549,7 @@ He was a President at Lacoste and a Managing Director at Burlington Industries
 - Position ourselves as a food platform for high quality food experiences, both local and western
 - New store openings are now a science rather than an art, with robust processes which use inputs like demographics, comparable stores, etc. 
 
-### Yum Supply Chain
+#### Yum Supply Chain
 
 ![SC](imgs/yum_supply_chain.png)
 ![SC](imgs/yum_supply_chain_tech.png)
@@ -566,30 +566,30 @@ Food Innovation
 - Involved in food innovation from the get-go
 - Ensures food quality and delivery SLAs are always met
 
-### Factors shaping success in dine-in format
+#### Factors shaping success in dine-in format
 
 - Pizza hut used to be a window to the Western world
 - Evolved into a cross between Cheesecake Factory and Applebee's to keep up with the interest of the global Chinese customer
 - Pioneer of digital technologies for ordering and interacting with our physical presence
 - Still learning about Taco Bell's presence and how it can resonate with the Chinese customer, but we hope to grow it to be as large as KFC or Pizza Hut one day
 
-### Sustainability Efforts
+#### Sustainability Efforts
 
 ![Sustainability](imgs/yum_sustainability.png)
 ![Sustainability](imgs/yum_sustainability_indices.png)
 
-## Ming Mei - CEO, Co-Founder GLP 
+### Ming Mei - CEO, Co-Founder GLP 
 
 ![Ming Mei](imgs/ming_mei.png)
 
-### About GLP 
+#### About GLP 
 
 - GLP was founded in 2009 as a logistics real estate investor, developer and operator for the logistics industry
 - Leading global investment manager and business builder in logistics, real estate, infrastructure, finance and related technologies
 - Have one of the largest industrial real estate portfolio in China, Brazil, Japan, and the US
 - In 2020, GLP took a major share of Li & Fung (one of the largest consumer sourcing companies in the world)
 
-### Warehouses
+#### Warehouses
 
 - What differentiates the cost of a warehouse facility these days is location (land costs)
 - International standards of floor height are 10.5 meters
@@ -607,7 +607,7 @@ Food Innovation
 	- Warehouses in Shanghai, Beijing are moving towards this vertical model as well
 	- Previously warehouses were built for forklift capabilities, but now automation technology has eliminated these constraints
 
-### New Business Models Disrupting Big-Box Retail
+#### New Business Models Disrupting Big-Box Retail
 
 - There exists companies in Guangzhou that use social media to detect demand for a new design
 - From the time they gather enough demand, it is a 1-week turnaround time to manufacture and ship to USA at a $4-5 price point
@@ -620,14 +620,14 @@ Food Innovation
 	- All the data manufacturers collect about consumers make the manufacturers very smart on what each customer is going to buy at the end of the day even before they make a choice
 	- Data-driven planned economy 
 
-### Evaluating People
+#### Evaluating People
 
 - If someone walks around thinking that everything they have is because they are smart, they don't have the right humility that we're looking for
 - Want people who are hardworking and smart, but not full of themselves
 - If you hire a racing horse, don't need to smack it to make it run fast, but if you hire a different animal (e.g. pig), no amount of smacking will make it fast
 - No asshole policy that we take very seriously
 
-### Attracting the Right Investors
+#### Attracting the Right Investors
 
 - Government of Singapore backed us for managing $1.3B in a joint venture, one of the earliest sovereign wealth funds
 - Expanded to Canadian Pensions, Abu Dabhi sovereign wealth fund, etc.
@@ -641,4 +641,19 @@ Food Innovation
 	- Turned a core investment into opportunistic returns
 	- Sold back to Blackstone for $19B
 	
+## Student Presentations & Selling in China 4.20.2021
+
+### Student Presentations
+
+### Christine Lohi - CEO, Civic Exchange
+
+- Former Hong Kong Legislative Councilor
+- Founder of the Citizens Party and Hong Kong Human Rights Monitor
+- From 2012 to 2017, she was Under Secretary for the Environment in HK
+- In 2017, she became an adjunct professor in the Division of Environment and Sustainability at the Hong Kong University of Science and Technology
+
+### Hui Feng Zhang - HSBC Regional Head of Sustainability
+
+
+
 
