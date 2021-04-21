@@ -654,7 +654,7 @@ Food Innovation
 - From 2012 to 2017, she was Under Secretary for the Environment in HK
 - In 2017, she became an adjunct professor in the Division of Environment and Sustainability at the Hong Kong University of Science and Technology
 
-### China's Development Narrative
+#### China's Development Narrative
 
 - For Asia, the notion of development and advancement is very important
 - China Dream Narrative
@@ -662,7 +662,7 @@ Food Innovation
 
 ![China Narrative](imgs/china_narrative1.png)
 
-### Carbon Neutrality
+#### Carbon Neutrality
 
 - China is the biggest carbon emitter in the world
 - Climate change is an existential risk for manking but finger-pointing at China is not going to help
@@ -670,7 +670,7 @@ Food Innovation
 ![China Carbon](imgs/china_carbon_neutral.png)
 ![China Carbon](imgs/china_carbon_output.png)
 
-### Carbon Emissions Breakdown
+#### Carbon Emissions Breakdown
 
 - China became largest C02 emitter by 2007
 - Other economies shifted production to China and imported at cheaper prices
@@ -678,7 +678,17 @@ Food Innovation
 
 ![China Carbon](imgs/china_carbon_observations.png)
 
-### Hui Feng Zhang - HSBC Regional Head of Sustainability
+### Huifeng Zhang - HSBC Regional Head of Sustainability
+
+![Huifeng Zheng](imgs/huifeng_zheng.png)
+
+#### Setting the stage : China's goals
+
+![China Overview](imgs/hsbc_carbon_goals.png)
+![Strategy](imgs/hsbc_strategy.png)
+![Strategy](imgs/hsbc_strategy1.png)
+![Strategy](imgs/hsbc_strategy2.png)
+
 
 
 
