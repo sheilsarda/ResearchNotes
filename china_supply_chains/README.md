@@ -643,8 +643,6 @@ Food Innovation
 	
 ## Student Presentations & Selling in China 4.20.2021
 
-### Student Presentations
-
 ### Christine Loh - CEO, Civic Exchange
 
 ![Christine Loh](imgs/christine_loh.png)
@@ -696,6 +694,5 @@ Food Innovation
 
 ![Strategy](imgs/hsbc_walmart.png)
 ![Strategy](imgs/hsbc_puma.png)
-
 
 
