@@ -680,16 +680,22 @@ Food Innovation
 
 ### Huifeng Zhang - HSBC Regional Head of Sustainability
 
-![Huifeng Zheng](imgs/huifeng_zheng.png)
+![Huifeng Zhang](imgs/huifeng_zhang.png)
 
 #### Setting the stage : China's goals
 
 ![China Overview](imgs/hsbc_carbon_goals.png)
+
+#### HSBC Strategy
+
 ![Strategy](imgs/hsbc_strategy.png)
 ![Strategy](imgs/hsbc_strategy1.png)
 ![Strategy](imgs/hsbc_strategy2.png)
 
+#### Case Studies
 
+![Strategy](imgs/hsbc_walmart.png)
+![Strategy](imgs/hsbc_puma.png)
 
 
 
