@@ -703,9 +703,28 @@ Food Innovation
 1. Former tenured and chair professor at McCombs School of Business, The University of Texas at Austin.
 1. Founded CALEB Technologies Corporation in the United States in 1995. This company developed an aviation management system used by major US airlines. It was acquired by Accenture in 2002
 
-(1) Where will we make PPEs? (111.com- Gang Yu)
-(2) Given the increase in labor costs, what are the main innovation in terms of local manufacturing?
-(3) Will firms continue to manufacture in China?
+#### Introduction
+
+1. Prof. Marshall Fisher supervised PhD, and then went on to be a Prof. at UT Austin for 15 years
+1. Joined Amazon as VP for worldwide supply chain - responsible for procurement, inventory optimization, fulfillment and then got recruited to manage $18B procurement spend for Dell
+1. Founded 1 company in US, building software for real-time operations control for airlines-- anytime there is a flight cancelation or rerouting, they use my algorithm
+1. Founded 2 companies in China, one of them was sold to Walmart in 2015 as an online supermarket. This planted the seed for my current company
+1. Added category for the online drugstore as a B2C operation before selling to Walmart, but spun it out after the merger
+
+#### Origin of 111
+
+1. Healthcare industry in China has fastest growth among any vertical-- 2x GDP growth
+1. Within the next decade, the healthcare industry will surpass real estate to become the largest industry in China
+1. Healthcare is also the most outdated industry in China because:
+    1. Policy barrier
+    1. Decentralized, because customer is not the decision maker like in other consumer goods
+    1. Last category within ecommerce to be impacted by internet
+
+#### Q&A
+
+1. Where will we make PPEs? (111.com- Gang Yu)
+1. Given the increase in labor costs, what are the main innovation in terms of local manufacturing?
+1. Will firms continue to manufacture in China?
 
 ### Student Presentations
 
