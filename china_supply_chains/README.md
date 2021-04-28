@@ -717,14 +717,37 @@ Food Innovation
 1. Within the next decade, the healthcare industry will surpass real estate to become the largest industry in China
 1. Healthcare is also the most outdated industry in China because:
     1. Policy barrier
+        1. B2B license
+        1. Platform operations license
+        1. Hospital license
+        1. Warehouse license
     1. Decentralized, because customer is not the decision maker like in other consumer goods
     1. Last category within ecommerce to be impacted by internet
 
-#### Q&A
+#### Roadmap to Success
 
-1. Where will we make PPEs? (111.com- Gang Yu)
-1. Given the increase in labor costs, what are the main innovation in terms of local manufacturing?
-1. Will firms continue to manufacture in China?
+1. Gain licenses
+1. Integrate B2B and B2C supply chain
+1. Integrate medical diagnosis with drug store to create one-stop shop
+1. Integrate own inventory with platform marketplace to broaden SKU selection
+1. Integrate offline with online businesses 
+
+#### Growth
+
+1. Whole healthcare industry is very fragmented with a huge number of pharmaceutical companies and even largest chain store has less than 2% market share 
+1. Over 14K tiered distributors between the drug company and the patient
+1. Our platform will shorten the supply chain by being direct to source and shipped directly to hospitals and drug sources
+1. 63% of our sales are for 3rd to 6th tier cities
+1. Plans for globalization
+
+**Payor**: Detailed regulation has not been published yet. Most people pay out of pocket, and have also partnered with commercial insurance providers. 80% of customers pay out of pocket.
+
+#### AI 
+
+1. Use AI to deliver data in a structured way to lead to faster diagnoses, with differential diagnoses and drug recommendations. This reduced average visit time from 15 minutes to 6 minutes. In some cases, we might not even need the doctor's time in case our FAQs or doctor's assistant is able to resolve the issue.
+1. CRM to manage 
+
+**COVID-19** More and more patients tried telehealth and drug purchases. On Average, in-person health visits take 3 hours and we are much more efficient. We donated face-masks, provided refills for chronic disease patients who used to have to travel to the hospital every 30days. During the past year, our conversion rates and new customers have doubled.
 
 ### Student Presentations
 
