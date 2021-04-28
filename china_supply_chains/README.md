@@ -695,4 +695,30 @@ Food Innovation
 ![Strategy](imgs/hsbc_walmart.png)
 ![Strategy](imgs/hsbc_puma.png)
 
+## Student Presentations & The future of "Made in China" 4.27.2021
+
+### Dr. Gang Yu - Co-founder and Executive Chairman of 111 Inc.
+
+1. Co-founder of yhd.com and former Chairman, VP for Worldwide Procurement at Dell Inc. and VP for Worldwide Supply Chain at Amazon.com.
+1. Former tenured and chair professor at McCombs School of Business, The University of Texas at Austin.
+1. Founded CALEB Technologies Corporation in the United States in 1995. This company developed an aviation management system used by major US airlines. It was acquired by Accenture in 2002
+
+(1) Where will we make PPEs? (111.com- Gang Yu)
+(2) Given the increase in labor costs, what are the main innovation in terms of local manufacturing?
+(3) Will firms continue to manufacture in China?
+
+### Student Presentations
+
+![Fresh Hippo](imgs/student_fresh_hippo.png)
+
+**Starbucks Presentation Questions**
+
+1. On slide page 4, what does diversion from guanxi (relationship) principles mean?
+    1. Quanxi is the network of social and political relationships that govern business. Within these principles, its often frowned upon to exit partnerships or renegotiate contracts however, KFC China and Yum! Brands wasn't afraid to divert from said principles to insure their success
+    1. For example, if a supplier did not abide by STAR auditing standards, there was grounds for exit whereas, prior to STAR implementation, they would not have done so
+1. Why did Starbucks loose money for first 9 years?
+1. Would you recommend other American fast food chains enter China now?
+1. Why has Starbucks been more successful than many other entrants in the coffee space? Which of the strategies mentioned do its competitors, for example, Costa, not follow or implement differently?
+1. Which company do you think has done the best in expanding to China and has the most room for growth in the future?
+    1. Two points re: SBUX in China for 9 years - i) Chinese typically prefer tea, so it was a bit of a tough transition in terms of Chinese acclimating to a coffee chain and ii) higher price point turned off customers initially and sales suffered as a result
 
