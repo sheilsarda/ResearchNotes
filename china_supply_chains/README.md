@@ -764,3 +764,8 @@ Food Innovation
 1. Which company do you think has done the best in expanding to China and has the most room for growth in the future?
     1. Two points re: SBUX in China for 9 years - i) Chinese typically prefer tea, so it was a bit of a tough transition in terms of Chinese acclimating to a coffee chain and ii) higher price point turned off customers initially and sales suffered as a result
 
+### Course Recap
+
+1. China's future growth lies in lower tier cities and industries that can improve by becoming tech-enabled 
+1. No clear winner can immerge in an industry until the regulation is decided, and even then major players always need to be aware of the political sentiment
+1. Aspirational brands can command a large premium compared to Chinese homegrown companies that offer the same product / service
